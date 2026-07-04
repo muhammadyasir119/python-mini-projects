@@ -1,72 +1,104 @@
-python + fastapi development roadmap with AWS:
-.
-🚀 💻 PYTHON → JOB → AWS → AI (COMPLETE ROADMAP)
-🟢 PHASE 1 (Day 1–7) — Python Basics
-🎯 Topics:
--Variables
--Data Types
--Lists, Dictionaries ⭐
--If/Else
--Loops
--Functions ⭐⭐⭐
--OOP (basic)
-🎯 Goal:
+# 🚀 Python → Backend → AWS → AI Roadmap
 
-👉 Basic coding confidently
+## 🎯 Goal:
+- Python se start karke Backend Developer banna
+- Job lena 💼
+- Phir AWS + AI/ML continue karna
 
-🟡 PHASE 2 (Day 8–20) — SQL + Git
--🗄️ SQL:
--SELECT
--WHERE
--JOIN ⭐⭐⭐
--GROUP BY
-🔧 Git:
--init, add, commit
-push
-GitHub repo
-🎯 Goal:
+---
 
-👉 Database + code upload
+## 🟢 PHASE 1 (Day 1–7) — Python Basics
 
-🔵 PHASE 3 (Day 21–45) — FastAPI (CORE 🔥)
-⚡ Topics:
--GET / POST APIs
--CRUD ⭐⭐⭐
--Pydantic
--DB connection
--JWT Auth (basic)
-🎯 Goal:
+### 📚 Topics:
+- Variables
+- Data Types
+- Lists, Dictionaries
+- If/Else
+- Loops
+- Functions
+- OOP (Basic)
 
-👉 Backend developer banna
+### 🎯 Goal:
+- Basic coding confidently karna
 
-🟣 PHASE 4 (Day 35–60) — PROJECTS
-💻 Project 1:
+---
 
-👉 User Auth System
+## 🟡 PHASE 2 (Day 8–20) — SQL + Git
 
--Signup/Login
-💻 Project 2:
+### 📚 SQL Topics:
+- SELECT
+- WHERE
+- JOIN
+- GROUP BY
 
-👉 CRUD API (DB based)
+### 📚 Git Topics:
+- git init
+- git add
+- git commit
+- git push
 
-💻 Project 3:
+### 🎯 Goal:
+- Database + GitHub workflow samajhna
 
-👉 Full backend app
+---
 
-🎯 Goal:
+## 🔵 PHASE 3 (Day 21–45) — FastAPI (Core Backend)
 
-👉 Portfolio ready
+### 📚 Topics:
+- GET / POST APIs
+- CRUD operations
+- Pydantic
+- Database connection
+- JWT Auth (Basic)
 
-🟠 PHASE 5 (Day 60–75) — Docker
--🐳 Topics:
--Docker basics
--Dockerfile
--App containerize ⭐
-🔴 PHASE 6 (Day 75–90) — AWS
-☁️ Topics:
--EC2 ⭐⭐⭐
--S3
--Deploy project.
+### 🎯 Goal:
+- Backend developer banna
 
-💬 bolo: “Day 1 start”
-Main tumhe next step guide karta rahunga 🚀
+---
+
+## 🟣 PHASE 4 (Day 35–60) — Projects
+
+### 💻 Project 1:
+- User Authentication System (Signup/Login)
+
+### 💻 Project 2:
+- CRUD API (Database based)
+
+### 💻 Project 3:
+- Full Backend App
+
+### 🎯 Goal:
+- Strong portfolio banana
+
+---
+
+## ☁️ PHASE 5 — AWS + Docker
+
+### 📚 Topics:
+- AWS EC2
+- S3
+- Deployment
+- Docker (Basics)
+
+### 🎯 Goal:
+- Apni API deploy karna
+
+---
+
+## 🤖 PHASE 6 — AI / ML (Later)
+
+### 📚 Topics:
+- Numpy
+- Pandas
+- Linear Regression
+- ML Basics
+
+### 🎯 Goal:
+- Backend + AI combine karna
+
+---
+
+## 🔥 Daily Rule:
+- Roz code likhna
+- GitHub pe commit karna
+- Consistency maintain karna 💪
